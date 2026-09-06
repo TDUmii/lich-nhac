@@ -15,6 +15,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="may-nhac.ico" CopyToOutputDirectory="PreserveNewest" />
+    <Resource Include="assets\*.png" />
   </ItemGroup>
 
 </Project>
