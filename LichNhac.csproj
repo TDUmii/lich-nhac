@@ -6,10 +6,15 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <AssemblyName>MayNhac</AssemblyName>
+    <ApplicationIcon>may-nhac.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Google.Apis.Calendar.v3" Version="1.73.0.3979" />
     <PackageReference Include="Google.Apis.Auth" Version="1.73.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="may-nhac.ico" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>

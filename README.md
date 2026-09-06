@@ -1,6 +1,6 @@
-# Lich Nhac
+# May Nhac
 
-A friendly Windows calendar reminder app built with WPF and .NET 8.
+A friendly Windows calendar reminder app with a personal character icon, built with WPF and .NET 8.
 
 ## Features
 
@@ -18,7 +18,7 @@ dotnet run --project .\LichNhac.csproj
 
 ## Download for Windows
 
-Download `LichNhac.exe` from the latest GitHub Release and run it directly. The release is self-contained for Windows x64 and does not require a separate .NET installation.
+Download `MayNhac.exe` from the latest GitHub Release and run it directly. The release is self-contained for Windows x64 and does not require a separate .NET installation.
 
 ## Status
 
